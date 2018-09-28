@@ -1,2 +1,6 @@
 # hello-world
-Just lern the basics
+
+
+Hi Guys!
+
+I am pretty
